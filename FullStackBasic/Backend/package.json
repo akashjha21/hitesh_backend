@@ -1,0 +1,16 @@
+{
+  "name": "basic-backend",
+  "version": "1.0.0",
+  "description": "this is a basic backend video by hitesh whihc we are watching and learning",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
